@@ -56,10 +56,10 @@ title: "Forgiveness Home Page"
 
 {% if site %}
   {% if site.pages %}
-  Pages on this site:
-    {% assign abcpages = site.pages | sort: 'page.title' %}
-      {% for page in abcpages %}
-        {{page.title}}
+    Pages on this site:
+    {% assign pages = site.pages %}
+      {% for page in pages %}
+        {{ page.title }}
       {% endfor %}
   {% else %}
     There are no pages
