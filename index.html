@@ -55,10 +55,7 @@ title: "Forgiveness Home Page"
               <h1 class="site-logo"><a href="index.html">Forgiveness News</a></h1>
 
 {% assign abcpages = site.pages | sort: 'page.title' %}
-{% for page in abcpages %}
-{{ include.content.content | markdownify }}
-    "{{page.title}}"
-{% endfor %}
+
 
             </div>
           </div>
