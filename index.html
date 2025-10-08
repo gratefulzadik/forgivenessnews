@@ -2,6 +2,7 @@
 layout: page
 title: "My Page"
 ---
+{% assign pages = site.data.pages | sort: 'page.title' %}
 <!doctype html>
 <html lang="en">
   <head>
@@ -53,6 +54,9 @@ title: "My Page"
             <div class="col-12 text-center">
               <a class="absolute-toggle d-block d-md-none" data-toggle="collapse" href="#navbarMenu" role="button" aria-expanded="false" aria-controls="navbarMenu"><span class="burger-lines"></span></a>
               <h1 class="site-logo"><a href="index.html">Wordify</a></h1>
+              {% for page in pages -%}
+<p>[{{page.title}}]</p>
+{% endfor %}
             </div>
           </div>
         </div>
