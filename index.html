@@ -55,7 +55,7 @@ title: "My Forgiveness Home Page"
               <h1 class="site-logo"><a href="index.html">Workify</a></h1>
               {% assign abcpages = site.html_pages | sort: 'page.title' %}
               {% for page in abcpages -%}
-                  <p>|[{{page.title}}]</p>
+                  <p>{{page.title}}</p>
               {% endfor %}
             </div>
           </div>
