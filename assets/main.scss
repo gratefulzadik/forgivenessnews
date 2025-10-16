@@ -5,7 +5,7 @@
 @import "minima";
 
 .site-title::before {
-    background-image: url(/assets/img/yinyang-horizontal-smile-icon.png);
+    background-image: url({{ site.baseurl }}/assets/img/yinyang-horizontal-smile-icon.png);
     content: "";
     display: inline-block;
     position: relative;
