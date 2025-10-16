@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Forgiveness FAQs
 ---
 <h2>Forgiveness FAQs</h2>
 <ul>
