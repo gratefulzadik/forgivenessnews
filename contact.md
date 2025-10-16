@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Us
+title: Contact
 ---
 <h2>Contact Us</h2>
 <p>Put a contact form in here from one of these:</p>
