@@ -1,6 +1,7 @@
 # permalink: /:path/:year/:month/:day/:title
 title: Forgiveness News Network
 # logo: /assets/img/logo.png
+baseurl: /forgivenessnews
 description: Stories, news, and research about the process of forgiveness.
 show_downloads: true
 google_analytics:
