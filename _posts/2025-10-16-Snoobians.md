@@ -1,5 +1,5 @@
 ---
-title: "Thursday 10/16/2025 Snoobians"
+title: "A Quark of Snoobians"
 author: Snoobian
 layout: post
 ---
