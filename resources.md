@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Resources
 ---
 <h2>Resources</h2>
