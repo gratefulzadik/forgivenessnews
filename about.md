@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: About
 ---
 <h2>About Us</h2>
