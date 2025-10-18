@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Contact
 ---
 <h2>Contact Us</h2>
