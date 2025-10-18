@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: FAQs
 ---
 <h2>Forgiveness FAQs</h2>
