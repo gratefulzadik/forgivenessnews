@@ -1,8 +1,7 @@
 ---
 layout: page
-title: FAQs
+title: Forgiveness FAQs
 ---
-<h2>Forgiveness FAQs</h2>
 <ul>
   <li>Is there balm in Gilead?</li>
   <li>Wherefore art thou "Romeo?"</li>
