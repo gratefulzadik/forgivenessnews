@@ -268,9 +268,10 @@
   height: 75px;
   object-fit: cover;
   float: left;
-	content: "";
-	display: inline-block;
+  content: "";
+  display: inline-block;
   position: relative;
   top: 8px;
+  bottom: 8px
   margin-right: 10px;
 }
