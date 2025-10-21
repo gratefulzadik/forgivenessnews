@@ -14,13 +14,18 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
+        <div style="overflow-x:auto;">
+        <table cellpadding="1px" cellspacing="1px" border="none">
+          <tr>
+            <td>
         {%- if post.image -%}
           <img src="{{- post.image | relative_url -}}" alt="" class="post-list-image">
         {%- else -%}
           {%- assign postImage = "/assets/img/default-post-img.jpg" -%}
           <img src="{{- postImage | relative_url -}}" alt="" class="post-list-image">
         {%- endif -%}
-        <div class="post-list-title-block"
+            </td>
+        <div class="post-list-title-block">
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <h3>
@@ -31,6 +36,10 @@ layout: default
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
           {%- endif -%}
+        </div>
+        </td>
+        </tr>
+        </table>
         </div>
       </li>
       {%- endfor -%}
