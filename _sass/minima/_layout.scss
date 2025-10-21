@@ -263,7 +263,7 @@
   object-fit: cover;
 }
 
-.blog-roll-image {
+.post-list-image {
   width: 75px;
   height: 75px;
   object-fit: cover;
@@ -274,4 +274,8 @@
   top: 8px;
   margin-bottom: 8px;
   margin-right: 10px;
+}
+
+.post-list-title-block {
+  display: inline-block;
 }
