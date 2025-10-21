@@ -286,7 +286,7 @@ table {
   td {
     border: 1px solid $table-border-color;
   }
-*/
+
 
   @include media-query($on-laptop) {
     display: block;
@@ -295,3 +295,4 @@ table {
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+*/
