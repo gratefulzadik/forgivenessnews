@@ -3,6 +3,8 @@
 ---
 
 @import "minima";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 
 .site-title::before {
     background-image: url({{ site.baseurl }}/assets/img/yinyang-horizontal-smile-icon.png);
