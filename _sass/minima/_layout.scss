@@ -282,10 +282,11 @@
 
 // table for displaying image, title, and excerpt
 table, th, td {
+  border-collapse: collapse;
   border: 0;
 }
 table {
-  border-spacing: 6px;
+  border-spacing: 3px;
 }
 th, td {
   padding: 0px;
