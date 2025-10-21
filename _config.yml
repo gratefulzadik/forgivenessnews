@@ -5,6 +5,7 @@ email: forgivenessnews@gmail.com
 description: Stories, news, and research about the process of forgiveness.
 google_analytics:
 theme: minima
+skin: solarized
 # permalink: /:baseurl/:year/:month/:day/:title
 show_excerpts: true
 show_drafts: true
