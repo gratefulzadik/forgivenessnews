@@ -6,7 +6,7 @@ description: Stories, news, and research about the process of forgiveness.
 google_analytics:
 theme: minima
 # permalink: /:baseurl/:year/:month/:day/:title
-show_excerpts: true
+show_excerpts: false
 show_drafts: true
 header_pages:
   - index.html
