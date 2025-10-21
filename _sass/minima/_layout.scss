@@ -279,3 +279,11 @@
 .post-list-title-block {
   display: inline-block;
 }
+
+// table for displaying image, title, and excerpt
+table {
+  border-spacing: 6px;
+}
+th, td {
+  padding: 0px;
+}
