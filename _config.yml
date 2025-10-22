@@ -8,7 +8,7 @@ theme: minima
 skin: solarized-dark
 # permalink: /:baseurl/:year/:month/:day/:title
 show_excerpts: true
-show_drafts: true
+show_drafts: false
 header_pages:
   - index.html
   - about.md
