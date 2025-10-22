@@ -214,14 +214,15 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
-  text-align: center;
+  border-bottom: 1px solid #193843;
 }
 
 .post-title {
   @include relative-font-size(2.625);
+  text-align: center;
   letter-spacing: -1px;
   line-height: 1.15;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
   font-weight: 400;
   
   @include media-query($on-laptop) {
