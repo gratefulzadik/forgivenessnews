@@ -2,6 +2,7 @@
 layout: post
 title: "Forgiveness Finds a Strange New Home for a Mother’s Love"
 image: /assets/img/Mary-Oshea.png
+image-credit: "Brian Mogren"
 excerpt: "Mary Johnson’s story of forgiveness has continued to unfold over a period of more than 18 years. Although it is not a new story, I place it first in my chronicles of forgiveness because of the many lessons and perspectives it contains. (Image: Brian Mogren)"
 ---
 <p><a href="https://www.twincities.com/2010/12/22/unlikely-meeting-unlikely-outcome/">Unlikely Meeting, Unlikely Outcome -></a></p>
