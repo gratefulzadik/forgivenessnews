@@ -7,7 +7,7 @@ layout: default
     {%- if page.image -%}
       <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
       {%- if page.image-credit -%}  
-        <p class="figcaption">Image © {{- page.image-credit -}}</p>
+        <p class="figcaption">Image {{- page.image-credit -}}</p>
       {%- endif -%}
     {%- else -%}
       {%- assign postImage = "/assets/img/default-post-img.jpg" -%}
