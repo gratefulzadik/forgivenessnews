@@ -3,15 +3,15 @@ layout: post
 title: "Forgiveness Finds a Strange New Home for a Mother’s Love"
 image: /assets/img/Mary-Oshea.png
 image-credit: "© Brian Mogren"
-excerpt: "Mary Johnson’s story of forgiveness has continued to unfold over a period of more than 18 years. I place it first in these chronicles of forgiveness because of the many lessons and perspectives it contains."
+excerpt: "“I was angry and hated this boy, hated his mother...Shock. Disbelief. Hatred. Anger. Hatred. Blame. Hatred. I wanted him to be caged up like the animal he was.”"
 ---
-<p><a href="https://www.twincities.com/2010/12/22/unlikely-meeting-unlikely-outcome/">Unlikely Meeting, Unlikely Outcome -></a></p>
-<p><a href="http://m.startribune.com/index.php/jon-tevlin-gunshot-took-her-son-but-forgiveness-finally-came/42833927/?section=featuredColumns">Gunshot Took Her Son but Forgiveness Finally Came -></a></p>
-<p><a href="https://www.cbsnews.com/news/love-thy-neighbor-sons-killer-moves-next-door/" target="_blank">Love thy neighbor: Son's killer moves next door -></a></p>
-
-<p>Mary Johnson’s story of forgiveness unfolded over a period of more than 18 years. She has become a true paragon of forgiveness and an advocate for restorative justice, but as you will read in the articles linked above, she didn’t start out that way. Like almost anyone struggling with the sudden violent death of a child, she was shocked by the murder of her son. Her loss was life-shattering, and the task of redeeming and forgiving that loss was equally life-changing.</p>
+<p>Mary Johnson’s story of forgiveness unfolded over a period of more than 18 years. She has become a true paragon of forgiveness and an advocate for restorative justice, but as you will read in the articles linked below, she didn’t start out that way. Like almost anyone struggling with the sudden violent death of a child, she was shocked by the murder of her son. Her loss was life-shattering, and the task of redeeming and forgiving that loss was equally life-changing.</p>
   
-<p>At the core of any trauma or transgression is a value we cherish. Rebuilding and reinforcing that value can transform our lives in ways we could never predict. To the extent our lives are bent out of shape by some transgression, then forgiveness can bend us back in a positive direction.</p>
+<p><a href="https://www.twincities.com/2010/12/22/unlikely-meeting-unlikely-outcome">Unlikely Meeting, Unlikely Outcome -></a></p>
+<p><a href="https://www.startribune.com/gunshot-took-her-son-but-forgiveness-finally-came/42833927">Gunshot Took Her Son but Forgiveness Finally Came -></a></p>
+<p><a href="https://www.cbsnews.com/news/love-thy-neighbor-sons-killer-moves-next-door" target="_blank">Love thy neighbor: Son's killer moves next door -></a></p>
+
+<p>At the core of any trauma or transgression is the loss of something we cherish and an attack on a value we hold sacred. Rebuilding and reinforcing that value can transform our lives in ways we could never predict. To the extent our lives are bent out of shape by some transgression, then forgiveness can bend us back in a positive direction.</p>
 
 <p>In the beginning Mary was naturally grief-stricken and enraged, and she held her son’s killer in contempt. Believing her faith demanded it, however, she extended forgiveness to the boy and his mother at the boy’s trial. But it wasn’t true forgiveness. It was far too soon for her to forgive. She was just mouthing the words, while inside nothing had changed. I call that pseudo-forgiveness, and it’s far more common than it should be. We pressure ourselves, we are pressured by family, friends, society, or religion to “forgive and forget,” “just get over it” or “move on.” But as I or anyone who’s tried this can tell you, until you understand the transgression and what it means to you, and make some headway grieving it, there is no moving on. Like a dog chained to a stake in the ground, you can only run in the same circle. And where you pace, trying to escape, nothing new can grow.</p>
 
