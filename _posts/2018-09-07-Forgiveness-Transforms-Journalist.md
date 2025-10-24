@@ -4,6 +4,7 @@ title: "Forgiveness Transforms Journalist Held Captive By Pirates"
 image: /assets/img/michaelscottmoore2.jpg
 image-credit: "© Michael Scott Moore"
 excerpt: "“At some point, I made a conscious decision to forgive my guards…Once I reordered my brain like that, I no longer had that impulse to kill myself.”"
+tags: kidnapping
 ---
 
 <p>“At some point, I made a conscious decision to forgive my guards, to forgive the most immediate people who were causing me pain. That was an incredible mental transformation. Once I reordered my brain like that, I no longer had that impulse to kill myself.”</p>
