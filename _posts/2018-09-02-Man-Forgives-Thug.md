@@ -10,4 +10,4 @@ categories: politics, cruelty
 
 <p>“The MQM man who kidnapped and tortured me in 1991 has died of cancer. Although I still bear the scars, both mental and physical, I pray to Allah for his forgiveness.”</p>
 
-<p align="center"><a href="https://en.dailypakistan.com.pk/08-Jul-2018/man-kidnapped-tortured-by-mqm-s-saleem-shehzad-forgives-him-after-death-from-cancer" target="_blank"> Story at Daily Pakistan </a></p>
+<p class="story-link"><a href="https://en.dailypakistan.com.pk/08-Jul-2018/man-kidnapped-tortured-by-mqm-s-saleem-shehzad-forgives-him-after-death-from-cancer" target="_blank"> Story at Daily Pakistan </a></p>
