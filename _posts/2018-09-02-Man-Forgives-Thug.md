@@ -5,7 +5,7 @@ image: /assets/img/Azam-Jamil.jpg
 image-credit: "© Azam Jamil"
 excerpt: "“Because we all need forgiveness.”"
 ---
-<p>Saleem Shahzad was associated a long history of using torture and murder to accomplish his political goals as a member of the Muttahida Qaumi Movement (MQM) in Pakistan. Upon Shahzad's death, Azam Jamil came forward to announce his forgiveness of Shahzad.</p>
+<p>Saleem Shahzad's use of torture and murder to accomplish his political goals got him expelled from the Muttahida Qaumi Movement (MQM) in Pakistan. Upon Shahzad's death, Azam Jamil, one of Shahzad's victims, came forward to announce his forgiveness of Shahzad.</p>
 
 <p>“The MQM man who kidnapped and tortured me in 1991 has died of cancer. Although I still bear the scars, both mental and physical, I pray to Allah for his forgiveness.”</p>
 
