@@ -4,6 +4,7 @@ title: "Forgiveness Finds a Strange New Home for a Mother’s Love"
 image: /assets/img/Mary-Oshea.png
 image-credit: "© Brian Mogren"
 excerpt: "“I was angry and hated this boy, hated his mother...Shock. Disbelief. Hatred. Anger. Hatred. Blame. Hatred. I wanted him to be caged up like the animal he was.”"
+categories: murder
 ---
 <p>Mary Johnson’s story of forgiveness unfolded over a period of more than 18 years. She has become a true paragon of forgiveness and an advocate for restorative justice, but as you will read in the articles linked below, she didn’t start out that way. Like almost anyone struggling with the sudden violent death of a child, she was shocked by the murder of her son. Her loss was life-shattering, and the task of redeeming and forgiving that loss was equally life-changing.</p>
   
