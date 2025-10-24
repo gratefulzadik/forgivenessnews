@@ -12,4 +12,4 @@ categories: murder, family
 
 <p class="story-link"><a href="http://www.wdrb.com/story/38761474/family-of-stepfon-harris-say-they-forgive-whoever-killed-him" target="_blank" > Story via WDRB.com </a></p>
 
-<p class="post-script">As of October, 2025, Stepfon's murder remains unsolved.</p>
+<p class="post-script">Update: As of October, 2025, Stepfon's murder remains unsolved.</p>
