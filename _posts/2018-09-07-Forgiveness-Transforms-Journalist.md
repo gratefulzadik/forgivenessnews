@@ -8,7 +8,7 @@ excerpt: "“At some point, I made a conscious decision to forgive my guards…O
 
 <p>“At some point, I made a conscious decision to forgive my guards, to forgive the most immediate people who were causing me pain. That was an incredible mental transformation. Once I reordered my brain like that, I no longer had that impulse to kill myself.”</p>
 
-<p align="center"> 
+<p class="story-link"> 
 <a href="https://www.npr.org/2018/07/30/633965533/journalist-held-captive-by-pirates-says-focus-and-forgiveness-were-crucial" target="_blank" > Story via NPR </a> 
 </p>
 
