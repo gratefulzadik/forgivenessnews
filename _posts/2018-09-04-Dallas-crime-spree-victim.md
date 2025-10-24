@@ -4,7 +4,7 @@ title: "Dallas Crime Spree Victim Willing to Forgive"
 image: /assets/img/mauricio-rosas.png
 image-credit: "© NBCDFW"
 excerpt: "“I’ve been forgiven before and therefore I must forgive.”"
-categories: news, robbery
+tags: news, robbery
 ---
 <p>On a hot Saturday night ine late July, a group of teenagers in Dallas, Texas went on a violent crime spree of car theft and armed robbery.</p>
 
