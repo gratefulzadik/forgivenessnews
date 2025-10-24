@@ -4,6 +4,7 @@ title: "Families Convince Judge to Reduce Fatal Crash Sentence"
 image: /assets/img/Rick-Pals.png
 image-credit: "© KARE 11, Minneapolis"
 excerpt: "“I was kind of worried. I thought, maybe when I see him I won’t be so forgiving, but it was just the opposite.”"
+categories: accident, faith
 ---
 <p>“I was kind of worried,” Kathy Pals said. “I thought, maybe when I see him I won't be so forgiving, but it was just the opposite. It instilled in me more of a desire to be at peace with him.”</p>
 
