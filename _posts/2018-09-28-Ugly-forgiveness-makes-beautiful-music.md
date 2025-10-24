@@ -4,7 +4,7 @@ title: "“Ugly” forgiveness makes beautiful music"
 image: /assets/img/brandi_carlile.jpg
 image-credit: "© Nashville Scene"
 excerpt: "“Forgiveness is so radical and so filthy...it might be one of the deepest things that we do as humans”"
-categories: music
+tags: music
 ---
 
 <p>Brandi Carlile named her 2018 album <em>By the Way, I Forgive You</em> for the all-too-common practice of offering forgiveness (pseudo-forgiveness, actually) as a way to hurt someone while appearing virtuous. </p>
