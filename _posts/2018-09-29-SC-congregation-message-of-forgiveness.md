@@ -4,7 +4,7 @@ title: "South Carolina Church Shooting Survivors Spread Message of Forgiveness"
 image: /assets/img/SC-church-quinnipiac-2.jpg
 image-credit: "© Clare Dignan / Hearst Connecticut Media (l-r) Rose Simmons, Polly Sheppard and the Rev. Anthony Thompson from Mother Emanuel African Methodist Episcopal Church in Charleston, S.C., speaking at Quinnipiac University on September 9, 2018"
 excerpt: "“Forgiveness has nothing to do with the person that you’re forgiving . . . [it] helps you find peace with yourself. Forgiveness is peace, really.”"
-categories: news, community, faith, mass shooting
+tags: news, community, faith, mass shooting
 ---
 
 <p>One danger of unforgiveness is that we become tainted by the same flaws and errors of those who harmed us. Their anger begets ours. Their callousness hardens our hearts. Their depravity inspires our revenge fantasy. </p>
