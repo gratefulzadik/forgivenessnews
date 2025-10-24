@@ -4,7 +4,7 @@ title: "Framed and Jailed for 20 Years, but Has No Time for Grudges"
 image: /assets/img/scott-lewis-sammy-westfall-thepolitic.jpg
 image-credit: "© Sammy Westfall/The Politic"
 excerpt: "“If I was just so angry, I would have been so consumed. That wouldn’t have gotten me anywhere. I would have just been another mad, black guy in prison for something that he didn’t do.”"
-categories: injustice
+tags: injustice
 ---
 
 <p>Scott Lewis is a paragon of persistence, optimism, and above all, forgiveness. The new documentary <em><a href="https://www.mattnadel.com/120years" target="_blank" >120 Years</em></a> tells how Vincent Raucci, the notoriously corrupt New Haven detective, framed Lewis for a double murder. Lewis was sentenced to 120 years in prison, but used his time in jail to study law. He spent over 19 years fighting setbacks, corruption, and incompetence in the Connecticut courts before getting his conviction overturned. Most of that time he worked alone, writing appeals and briefs on whatever paper he could find, with no more resources than the prison library.</p>
