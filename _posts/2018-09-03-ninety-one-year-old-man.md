@@ -4,7 +4,7 @@ title: "91 Year-Old Asks Forgiveness for His Attacker"
 image: /assets/img/rodolfo-rodriguez-beating-victim.jpg
 image-credit: "© Paul Vercammen/CNN"
 excerpt: "“She did hurt me, but I cannot be an enemy and say I condemn her.”"
-category: "News"
+categories: News
 ---
 <p>Ninety-one year-old Rodolfo Rodriguez was out on a walk when a woman attacked him, bashing his head with a concrete block and inflicting severe injuries.</p>
 
