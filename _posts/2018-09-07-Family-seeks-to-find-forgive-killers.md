@@ -4,7 +4,7 @@ title: "Victim’s Family Offers Forgiveness in Unsolved Murder"
 image: /assets/img/Stepfon-Harris-Family.png
 image-credit: "© WDRB.com"
 excerpt: "“I would just like to say to those who was all involved with Stepfon’s murder, I forgive each and every one of you.”"
-categories: murder, family
+tags: murder, family
 ---
 <p>The murder of Stepfon Harris in Louisville, Kentucky remains unsolved after two years. Harris’s extended family met on the second anniversary of his death to mourn, call for continued investigation, and offer forgiveness to the unknown perpetrators.</p>
 
