@@ -10,4 +10,4 @@ categories: accident, faith
 
 <p>“Everybody makes mistakes, and he didn’t start out that day planning on killing our children,” said Rick Pals, who lost his son’s entire family in a crash on Interstate 80 near on July 31, 2016.</p>
 
-<p align="center"><a href="https://www.kare11.com/article/news/faith-and-forgiveness-families-convince-judge-to-reduce-fatal-crash-sentence/89-577193962" target="_blank" > Story via KARE 11 </a></p>
+<p class="story-link"><a href="https://www.kare11.com/article/news/faith-and-forgiveness-families-convince-judge-to-reduce-fatal-crash-sentence/89-577193962" target="_blank" > Story via KARE 11 </a></p>
