@@ -10,4 +10,4 @@ categories: news, robbery
 
 <p>“I’m willing to speak to these young men and show them some grace because I’ve been forgiven before and therefore I must forgive,” said Mauricio Rosas, one of several victims robbed that night.</p>
 
-<p align="center"><a href="https://www.nbcdfw.com/news/local/Dallas-Armed-Robbery-Victim-Willing-to-Forgive-After-Teen-Crime-Spree-488932941.html" target="_blank"> Story via NBC Dallas-Fort Worth </a> </p>
+<p class="story-link"><a href="https://www.nbcdfw.com/news/local/Dallas-Armed-Robbery-Victim-Willing-to-Forgive-After-Teen-Crime-Spree-488932941.html" target="_blank"> Story via NBC Dallas-Fort Worth </a> </p>
