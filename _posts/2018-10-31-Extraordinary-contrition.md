@@ -2,7 +2,7 @@
 layout: post
 title: "A Case of Extraordinary Contrition"
 image: /assets/img/natalia-simons.jpg
-image-credit: "© Danielle Finkelstein; SCPD"
+image-credit: "© Danielle Finkelstein, SCPD.  Natalie Simons (left)  Kim Garwood (right)"
 excerpt: "“There is not a day that goes by when I don’t think about what happened and the pain that I’ve caused. I’m very sorry for that. I don’t expect forgiveness. I just hope one day you can accept my apology.”"
 tags: accident
 ---
