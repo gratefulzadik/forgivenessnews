@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Can’t Yet Forgive, but Brimming With Empathy"
 image: /assets/img/michael-watson.jpg
 image-credit: "© Steve Bainbridge"
 excerpt: "“I feel quite sorry for them. They never had a chance. I’d want to encourage them, give them inspiration. I’d tell them, ‘Don’t give up hope, believe in yourselves.’”"
