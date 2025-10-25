@@ -2,7 +2,7 @@
 layout: post
 title: "A Serial Killer in the Family"
 image: /assets/img/kerri-rawson-cbc.ca.jpg
-image-credit: "© Kerri Rawson"
+image-credit: "© Kerri Rawson. Kerry Rawson as a teenager, with her father Dennis Rader, the “B.T.K.” serial killer."
 excerpt: "“When you forgive somebody it doesn’t also mean you have to be back in relationship with them. I have very strict boundaries...to protect myself and my family.”"
 tags: serial killer
 ---
@@ -61,4 +61,4 @@ tags: serial killer
 
 <p class="story-link"> <a href="https://www.thomasnelson.com/p/a-serial-killers-daughter/" target="_blank" > A Serial Killer's Daughter </a> </p>
   
-<p class="story-link"> <a href="https://www.investigationdiscovery.com/tv-shows/btk-a-killer-among-us/" target="_blank" > BTK: A Killer Among Us </a></p?
+<p class="story-link"> <a href="https://www.investigationdiscovery.com/tv-shows/btk-a-killer-among-us/" target="_blank" > BTK: A Killer Among Us </a></p>
