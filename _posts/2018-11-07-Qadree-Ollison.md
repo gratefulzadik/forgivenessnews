@@ -15,7 +15,9 @@ tags:
 
 <p>In the weeks before the sentencing, he found he couldn’t stay angry at Denzel at all, and it made him wonder if there was something wrong with him. Instead of being kept up at night by thoughts of anger and revenge, he was being kept up by worry that his forgiveness of Denzel somehow made him a bad person. In a letter prepared for Denzel’s sentencing, Qadree wrote:&nbsp; </p>
 
+<blockquote>
 <p>“When I heard what happened I was devastated, like most would be when they hear that their brother’s life was taken. During that time though, I didn’t feel an ounce of hate for whoever had done it. I questioned myself for a long time, staying up all night and wondering why I didn’t hate you. I wondered why I felt just as bad for your family as I did my own. I was in unbelievable shock when I found out who it was that did this, and didn’t believe it…I thought for a long time this made me a bad person. I thought I should hate the person that killed my brother and I couldn’t bring myself to do it. </p>
+</blockquote>
 
 <p>“The entire time my family was grieving over the loss of my brother, I was worried about both parties, wondering how your mother felt or your father felt. I have this deep belief that every life is precious no matter what they do. Even if they murder someone, that life is still precious…</p>
 
