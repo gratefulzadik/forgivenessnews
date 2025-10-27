@@ -3,7 +3,7 @@ layout: post
 title: "High School Healing Fifty Years Later"
 image: /assets/img/o'kelly-sisters-now.jpg
 image-credit: "© Tammy Smit/Daily Southtown"
-excerpt: "“A sincere apology is strong medicine. One of the deepest wounds for many of us is the loss of dignity, the loss of the recognition of our inherent worth in the eyes of our peers. A sincere apology cancels the disrespect and reaffirms our worth. Even though it took more than 50 years, that’s what Bruce offered the two sisters who had been outcasts at their school.”"
+excerpt: "“Somehow the whole entire school got against us. Not just one, not just two. The whole entire school. Not one person talked to us. Not one person wanted to get near us. It was like we had the plague or something.”"
 tags: 
 ---
 <p>“They may forget what you said but they will never forget how you made them feel,” goes a wise old saying. The stronger the feeling, the more vividly we record the memory. When someone treats us really badly, our pain—and their guilt—can remain unresolved for decades. While we all know the past cannot be changed, the story of the Rys sisters, Kathleen and Lorraine, shows how forgiveness can change our relationship to it. </p>
@@ -26,13 +26,23 @@ tags:
 
 <p>“I forgave him immediately,” Kathleen said.</p>
 
-<p>“Of course I forgave him,” added Lorraine. “How could I not?”</p><p>The meeting took place at a Panera. It started off uncomfortably, with the former roles of bully and victim seemingly reversed. Now Bruce was the shy and timid one, unable to bring himself to sit face to face with the sisters. Instead he sat nervously in a corner with his wife Tammy, a few tables over from Kathleen and Lorraine. Bruce was visibly distressed, or seemed so to Lorraine. She cut the tension by shouting out, “I forgive you!” echoed quickly by her sister Kathleen. </p>
+<p>“Of course I forgave him,” added Lorraine. “How could I not?”</p>
 
-<p>Bruce broke down in tears.</p><p>“I’m so ashamed, so embarrassed. But I’m so happy they’re still here and that I can finally apologize. It’s cathartic,” Bruce said.</p>
+<p>The meeting took place at a Panera. It started off uncomfortably, with the former roles of bully and victim seemingly reversed. Now Bruce was the shy and timid one, unable to bring himself to sit face to face with the sisters. Instead he sat nervously in a corner with his wife Tammy, a few tables over from Kathleen and Lorraine. Bruce was visibly distressed, or seemed so to Lorraine. She cut the tension by shouting out, “I forgive you!” echoed quickly by her sister Kathleen. </p>
 
-<p>The three have met many times in the year since that first tense encounter. Their conversations often return to those early days.</p><p>“I do feel better now,” Kathleen said. “To face it and just to let it go. For him to admit that it happened. I carried it for so long.”</p>
+<p>Bruce broke down in tears.</p>
 
-<p>“Sometimes I feel better,” Bruce said. “I still carry the guilt. But I have a different perspective on it now. I don’t wonder anymore where they are and how they turned out.</p><p>“But the guilt still haunts me. I think about these incidences so long ago and how they affected their lives. It helped to mold them and make them who they are. I wonder what might have been, what they missed in life,” he said.</p>
+<p>“I’m so ashamed, so embarrassed. But I’m so happy they’re still here and that I can finally apologize. It’s cathartic,” Bruce said.</p>
+
+<p>The three have met many times in the year since that first tense encounter. Their conversations often return to those early days.</p>
+
+<p>“I do feel better now,” Kathleen said. “To face it and just to let it go. For him to admit that it happened. I carried it for so long.”</p>
+
+<blockquote>
+<p>“Sometimes I feel better,” Bruce said. “I still carry the guilt. But I have a different perspective on it now. I don’t wonder anymore where they are and how they turned out.</p>
+
+<p>“But the guilt still haunts me. I think about these incidences so long ago and how they affected their lives. It helped to mold them and make them who they are. I wonder what might have been, what they missed in life.” </p>
+</blockquote>
 
 <p>A sincere apology is strong medicine. One of the deepest wounds for many of us is the loss of dignity, the loss of the recognition of our inherent worth in the eyes of our peers. A sincere apology cancels the disrespect and reaffirms our worth. Even though it took more than 50 years, that’s what Bruce offered.</p>
 
@@ -44,4 +54,4 @@ tags:
 
 <p>It took both Bruce and the Rys sisters about the same amount of courage to show up at the restaurant that day last spring. What part of your past—even a very small part—do you have courage enough to start resolving now? </p>
 
-<p class="story-link"> <a href="https://www.chicagotribune.com/suburbs/daily-southtown/ct-sta-vickroy-bully-forgiveness-holiday-st-1231-story.html" target="_blank" > Story via the Chicago Tribune </a></p>
+<p class="story-link"> <a href="https://www.chicagotribune.com/suburbs/daily-southtown/ct-sta-vickroy-bully-forgiveness-holiday-st-1231-story.html" target="_blank" > Read the story at the Chicago Tribune </a></p>
