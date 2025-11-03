@@ -3,7 +3,7 @@ layout: post
 title: "How to Forgive Someone (in a Nutshell)"
 image: /assets/img/SmarterLiving-nytimes-RoseWong.jpg
 image-credit: "© Rose Wong"
-excerpt: "“The Smarter Living section at The New York Times has a delightful, useful, and concise summary of how to forgive.”"
+excerpt: "The Smarter Living section at The New York Times has a delightful, useful, and concise summary of how to forgive."
 tags: psychology
 ---
 
