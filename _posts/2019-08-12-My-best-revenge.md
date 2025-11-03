@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Best Revenge..."
-image: /assets/img/why-factor-banner
+image: /assets/img/why-factor-banner.png
 image-credit: "© Madeline Black/BBC; © Daily Mail; © Stephanie Sugars"
 excerpt: "“To lead a life as good as I possibly could”"
 tags: 
