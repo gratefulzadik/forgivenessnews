@@ -22,7 +22,7 @@ categories: blog
 <h2>— 1 —</h2> 
 
 <div class="cornerBorder"> <strong>We take life too personally.</strong> And when it doesn’t go our way we: 
-  <ul
+  <ul>
     <li> Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
     <li>Believe that we’re alone, that there’s something unique about our situation: “no one else has suffered what I have.”</li>
   </ul> 
