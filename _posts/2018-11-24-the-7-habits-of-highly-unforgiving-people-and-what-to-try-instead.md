@@ -23,9 +23,10 @@ categories: blog
       <p><strong>We take life too personally.</strong> And when it doesn’t go our way we: </p>
       
       <ul>
-        <li> Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
+        <li>Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
         <li>Believe that we’re alone, that there’s something unique about our situation: “no one else has suffered what I have.”</li>
       </ul> 
+      
       <p>Taking life too personally is the genesis of unforgiveness. Everything else follows from this. </p> 
     </div>
   </li>
@@ -35,7 +36,7 @@ categories: blog
       <strong>We assume the worst about the transgressor:</strong> “They must have meant to hurt me this way.” 
       <ul>
         <li>We blind ourselves to any evidence that they have ever been good, or that we ourselves have ever been blameworthy. </li>
-        <li>We cast them as a scheming villain and ourselves as a victim. </li>
+        <li>We cast them as a scheming villain and ourselves as an innocent victim. </li>
       </ul> 
     </div>   
   </li>
@@ -54,35 +55,37 @@ categories: blog
   
   <li> 
     <div class="cornerBorder"> 
-      <strong>We soothe ourselves with fantasies of revenge.</strong> Most people feel distressed, hurt, and angry about transgressions. But in our minds these bad things were never supposed to happen in the first place, and this leads many of us to an awareness of our vulnerability that we find hard to accept. We feel ashamed of being vulnerable, and angry at the transgressor for exposing it. So we imagine putting the offender in the same vulnerable and painful position. 
+      <p><strong>We soothe ourselves with fantasies of revenge.</strong> Most people feel distressed, hurt, and angry about transgressions. But in our minds these bad things were never supposed to happen in the first place, and this leads many of us to an awareness of our vulnerability that we find hard to accept. We feel ashamed of being vulnerable, and angry at the transgressor for exposing it. So we imagine putting the offender in the same vulnerable and painful position. 
+      </p>
     </div>
   </li>
   
   <li> 
     <div class="cornerBorder"> 
-      <strong>We disrupt our own grieving process</strong> Some of us stay stuck in grieving while others won’t allow ourselves to grieve until somebody “pays.” That is, until they admit guilt, accept punishment, and fix everything to be the way it was before. 
-      
-    <p>Sometimes it works. But it’s our own future we are holding hostage. </p>
+      <p><strong>We disrupt our own grieving process</strong> Some of us stay stuck in grieving while others won’t allow ourselves to grieve until somebody “pays.” That is, until they admit guilt, accept punishment, and fix everything to be the way it was before.
+      </p>
+      <p>Sometimes it works. But it’s our own future we are holding hostage. </p>
     </div>    
   </li>
   
   <li>
     <div class="cornerBorder"> 
-      <strong>We dwell excessively on our losses</strong> and dismiss the good things in our lives. We stop working toward our other hopes. The hopelessness of changing the past bleeds over into our thoughts about the future. Without work and belief, our hopes wither. 
+      <p><strong>We dwell excessively on our losses</strong> and dismiss the good things in our lives. We stop working toward our other hopes. The hopelessness of changing the past bleeds over into our thoughts about the future. Without work and belief, our hopes wither.
+      </p>
     </div>
     
   </li>
   
-    <li>
-      <div class="cornerBorder"> 
-        <strong>We avoid those we are angry with</strong> as a way to:
-        
-          <ul> 
-          <li>Set boundaries with them that we don’t know how to set more directly. </li>
-          <li>“Resolve” the conflict by ending the relationship. </li>
-          </ul>
-      </div> 
-    </li>
+  <li>
+    <div class="cornerBorder"> 
+      <strong>We avoid those we are angry with</strong> as a way to:
+      
+        <ul> 
+        <li>Set boundaries with them that we don’t know how to set more directly. </li>
+        <li>“Resolve” the conflict by ending the relationship. </li>
+        </ul>
+    </div> 
+  </li>
 </ol> 
 
 <hr />
