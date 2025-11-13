@@ -17,16 +17,80 @@ categories: blog
 
 <h2> 7 habits of highly unforgiving people </h2> 
 
-<h2>7 habits of highly forgiving people</h2>
+<ol>
+  <li>
+    <div class="cornerBorder"> 
+      <p><strong>We take life too personally.</strong> And when it doesn’t go our way we: </p>
+      
+      <ul>
+        <li> Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
+        <li>Believe that we’re alone, that there’s something unique about our situation: “no one else has suffered what I have.”</li>
+      </ul> 
+      <p>Taking life too personally is the genesis of unforgiveness. Everything else follows from this. </p> 
+    </div>
+  </li>
+  
+  <li>
+    <div class="cornerBorder"> 
+      <strong>We assume the worst about the transgressor:</strong> “They must have meant to hurt me this way.” 
+      <ul>
+        <li>We blind ourselves to any evidence that they have ever been good, or that we ourselves have ever been blameworthy. </li>
+        <li>We cast them as a scheming villain and ourselves as a victim. </li>
+      </ul> 
+    </div>   
+  </li>
+  
+  <li>
+    <div class="cornerBorder"> 
+      <strong>We blame the transgressor for our distress</strong> and demand they be punished for it. In order to do this we: 
+      
+      <ul> 
+        <li>Ignore or dismiss mitigating circumstances or alternative explanations. </li>
+        <li>Ignore any role our choices might have played in contributing to the outcome. </li>
+      </ul>
+      
+    </div>   
+  </li>
+  
+  <li> 
+    <div class="cornerBorder"> 
+      <strong>We soothe ourselves with fantasies of revenge.</strong> Most people feel distressed, hurt, and angry about transgressions. But in our minds these bad things were never supposed to happen in the first place, and this leads many of us to an awareness of our vulnerability that we find hard to accept. We feel ashamed of being vulnerable, and angry at the transgressor for exposing it. So we imagine putting the offender in the same vulnerable and painful position. 
+    </div>
+  </li>
+  
+  <li> 
+    <div class="cornerBorder"> 
+      <strong>We disrupt our own grieving process</strong> Some of us stay stuck in grieving while others won’t allow ourselves to grieve until somebody “pays.” That is, until they admit guilt, accept punishment, and fix everything to be the way it was before. 
+      
+    <p>Sometimes it works. But it’s our own future we are holding hostage. </p>
+    </div>    
+  </li>
+  
+  <li>
+    <div class="cornerBorder"> 
+      <strong>We dwell excessively on our losses</strong> and dismiss the good things in our lives. We stop working toward our other hopes. The hopelessness of changing the past bleeds over into our thoughts about the future. Without work and belief, our hopes wither. 
+    </div>
+    
+  </li>
+  
+    <li>
+      <div class="cornerBorder"> 
+        <strong>We avoid those we are angry with</strong> as a way to:
+        
+          <ul> 
+          <li>Set boundaries with them that we don’t know how to set more directly. </li>
+          <li>“Resolve” the conflict by ending the relationship. </li>
+          </ul>
+      </div> 
+    </li>
+</ol> 
+
+<hr />
+
+<h2> 7 habits of more forgiving people </h2> 
 
 <h2>— 1 —</h2> 
-
-<div class="cornerBorder"> <strong>We take life too personally.</strong> And when it doesn’t go our way we: 
-  <ul>
-    <li> Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
-    <li>Believe that we’re alone, that there’s something unique about our situation: “no one else has suffered what I have.”</li>
-  </ul> 
-  <p>Taking life too personally is the genesis of unforgiveness. Everything else follows from this. </p> <div class="roundBorder"> <strong>We try not to take life personally.</strong> We accept that life can be unpredictable and won’t always go our way. But our attitude is, “It’s not all about me.” 
+<div class="roundBorder"> <strong>We try not to take life personally.</strong> We accept that life can be unpredictable and won’t always go our way. But our attitude is, “It’s not all about me.” 
     
 <p>When bad things happen, we remind ourselves: </p>
 
@@ -35,17 +99,8 @@ categories: blog
   <li>Our pain is real, but it does not make us special. Every human being has suffered, some intensely. </li>
 </ul> 
 </div> 
-<hr />
 
 <h2>— 2 —</h2>
-
-<div class="cornerBorder"> <strong>We assume the worst about the transgressor:</strong> “They must have meant to hurt me this way.” 
-  <ul>
-    <li>We blind ourselves to any evidence that they have ever been good, or that we ourselves have ever been blameworthy. </li>
-    <li>We cast them as a scheming villain and ourselves as a victim. </li>
-  </ul> 
-</div> 
-
 <div class="roundBorder"> <strong>We try not to leap to judgment.</strong> We tend to believe that: 
   
   <ul> 
@@ -56,28 +111,14 @@ categories: blog
   
 </div> 
 
-<hr />
-
 <h2>— 3 —</h2>
+<div class="roundBorder"> 
+  <strong>We take responsibility for our own experience.</strong> We alone control how we respond to transgressions. We exercise what Viktor Frankl calls <em>“the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</em> We acknowledge that we have sensitivities and triggers like everyone else, so we determine whether our feelings really fit this situation and whether we have any accountability for how things happened. 
+</div>
 
-<div class="cornerBorder"> <strong>We blame the transgressor for our distress</strong> and demand they be punished for it. In order to do this we: 
-  
-  <ul> 
-    <li>Ignore or dismiss mitigating circumstances or alternative explanations. </li>
-    <li>Ignore any role our choices might have played in contributing to the outcome. </li>
-  </ul>
-  
-</div> 
-
-<div class="roundBorder"> <strong>We take responsibility for our own experience.</strong> We alone control how we respond to transgressions. We exercise what Viktor Frankl calls <em>“the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</em> We acknowledge that we have sensitivities and triggers like everyone else, so we determine whether our feelings really fit this situation and whether we have any accountability for how things happened. </div> 
-
-<hr />
-
-<h2>— 4 —</h2> 
-
-<div class="cornerBorder"> <strong>We soothe ourselves with fantasies of revenge.</strong> Most people feel distressed, hurt, and angry about transgressions. But in our minds these bad things were never supposed to happen in the first place, and this leads many of us to an awareness of our vulnerability that we find hard to accept. We feel ashamed of being vulnerable, and angry at the transgressor for exposing it. So we imagine putting the offender in the same vulnerable and painful position. </div>
-
-<div class="roundBorder"> <strong>We soothe ourselves by stepping back to take care of our wounds.</strong> We know we may not make the best decisions when we’re still angry and in pain. We move, breathe, create, connect to friends or family, hibernate, or whatever works for us to calm down. 
+<h2>— 4 —</h2>
+<div class="roundBorder"> 
+  <strong>We soothe ourselves by stepping back to take care of our wounds.</strong> We know we may not make the best decisions when we’re still angry and in pain. We move, breathe, create, connect to friends or family, hibernate, or whatever works for us to calm down. 
   
   <ul>
     <li>We’re more accepting of our vulnerability, knowing we share it with every other human. </li>
@@ -86,43 +127,21 @@ categories: blog
   
 </div>
 
-<hr />
-
-<h2>— 5 —</h2> 
-
-<div class="cornerBorder"> <strong>We disrupt our own grieving process</strong> Some of us stay stuck in grieving while others won’t allow ourselves to grieve until somebody “pays.” That is, until they admit guilt, accept punishment, and fix everything to be the way it was before. 
-  
-<p>Sometimes it works. But it’s our own future we are holding hostage. </p>
-</div>
-  
-<div class="roundBorder"> <strong>We allow ourselves to grieve and to mourn whatever we’ve lost.</strong> Grieving and mourning take their own path, and we don’t rush it. We want justice and work for it. But we accept the possibility that justice may never arrive. Even if it does, we accept that our life may never again be the way it was. 
+<h2>— 5 —</h2>
+<div class="roundBorder"> 
+  <strong>We allow ourselves to grieve and to mourn whatever we’ve lost.</strong> Grieving and mourning take their own path, and we don’t rush it. We want justice and work for it. But we accept the possibility that justice may never arrive. Even if it does, we accept that our life may never again be the way it was. 
 </div>
 
-<hr />
-
-<h2>— 6 —</h2> 
-
-<div class="cornerBorder"> <strong>We dwell excessively on our losses</strong> and dismiss the good things in our lives. We stop working toward our other hopes. The hopelessness of changing the past bleeds over into our thoughts about the future. Without work and belief, our hopes wither. </div>
-  
-<div class="roundBorder"> <strong>We try to keep our pain in perspective.</strong> We shift our focus to things we can still be glad about. We celebrate the good things still remaining, the good things we remember from the past, and the good things possible in the future. The loss of some hopes makes us realize how important it is to keep our other hopes alive. 
+<h2>— 6 —</h2>
+<div class="roundBorder"> 
+  <strong>We try to keep our pain in perspective.</strong> We shift our focus to things we can still be glad about. We celebrate the good things still remaining, the good things we remember from the past, and the good things possible in the future. The loss of some hopes makes us realize how important it is to keep our other hopes alive. 
 </div>
-
-<hr />
 
 <h2>— 7 —</h2>
-
-<div class="cornerBorder"> <strong>We avoid those we are angry with</strong> as a way to:
-  
-    <ul> 
-    <li>Set boundaries with them that we don’t know how to set more directly. </li>
-    <li>“Resolve” the conflict by ending the relationship. </li>
-    </ul>
-  </div> 
-  
-<div class="roundBorder"> <strong>We try for reconciliation,</strong> but not at the expense of our safety or sanity. If it’s safe to do so, we try to work things out with the offender directly. We tell them how we were affected and listen to their perspective. Whether the relationship continues or not, we remain open to positive changes. 
+<div class="roundBorder"> 
+  <strong>We try for reconciliation,</strong> but not at the expense of our safety or sanity. If it’s safe to do so, we try to work things out with the offender directly. We tell them how we were affected and listen to their perspective. Whether the relationship continues or not, we remain open to positive changes. 
 </div> 
 
-<hr />
   
 <p>Maybe that seems like a long list. What stands out to you? What habit are you most curious about? What might you notice if you exchanged an unforgiving habit for a forgiving one? </p>
 
