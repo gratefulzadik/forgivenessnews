@@ -7,6 +7,27 @@ excerpt: "“When we are no longer able to change a situation, we are challenged
 tags: 
 categories: blog 
 ---
+<style>
+  /**
+ * List Items for Seven Habits-type ordered lists
+ */
+h4 {
+  counter-increment: h4;
+  display: list-item;
+}
+
+h4::marker {
+  display: list-item;
+  content: "#" counter(h4) " ";
+  color: lightgreen;
+}
+
+body {
+  counter-reset: h4;
+}
+
+</style>
+
 <p>As a highly unforgiving person myself, I can tell you that the habits of unforgiving people lead us to suffering just as surely as a river flows to the sea. Holding a grudge keeps us in a chronic state of stress, and every moment of resentment about the past steals a moment of hope from our future. </p>
 
 <p>But even the least forgiving can change. Forgiveness can be learned. I believe we can understand unforgiveness as a set of habits. A habit is just a behavior we have repeated so many times that it has become automatic. And habits can be replaced! As long as we’re alive we have the chance to change our behaviors and attitudes. </p>
