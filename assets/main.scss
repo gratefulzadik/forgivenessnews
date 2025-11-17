@@ -53,20 +53,3 @@
   font-style: italic;
 }
 
-/**
- * List Items for Seven Habits-type ordered lists
- */
-.h4 {
-  counter-increment: .h4;
-  display: list-item;
-}
-
-.h4::marker {
-  display: list-item;
-  content: "#" counter(.h4) " ";
-  color: lightgreen;
-}
-
-.body {
-  counter-reset: .h4;
-}
