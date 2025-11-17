@@ -90,60 +90,44 @@ categories: blog
 
 <hr />
 
-<h2> 7 habits of more forgiving people </h2> 
+<h2> 7 Habits of Forgiving People </h2> 
 
-<h2>— 1 —</h2> 
-<div class="roundBorder"> <strong>We try not to take life personally.</strong> We accept that life can be unpredictable and won’t always go our way. But our attitude is, “It’s not all about me.” 
-    
-<p>When bad things happen, we remind ourselves: </p>
+<h4><strong>We try not to take life personally.</strong> </h4>
+  <p>We accept that life can be unpredictable and won’t always go our way. But our attitude is, “It’s not all about me.” When bad things happen, we remind ourselves: </p>
+  <ul> 
+    <li>We’re not alone. No matter how big or small our loss, many others have experienced the same thing. </li>
+    <li>Our pain is real, but it does not make us special. Every human being has suffered, some intensely. </li>
+  </ul> 
 
-<ul> 
-  <li>We’re not alone. No matter how big or small our loss, many others have experienced the same thing. </li>
-  <li>Our pain is real, but it does not make us special. Every human being has suffered, some intensely. </li>
-</ul> 
-</div> 
-
-<h2>— 2 —</h2>
-<div class="roundBorder"> <strong>We try not to leap to judgment.</strong> We tend to believe that: 
-  
+<h4><strong>We try not to leap to judgment.</strong></h4>
+  <p>We tend to believe that: </p>  
   <ul> 
     <li>Most people mean no harm. </li>
     <li>We have much in common with the offender: “It could have been me running that red light,” “I can see he might have thought that was the only choice he had.” </li><li>We don't know the whole story. The offender’s perspective is worth understanding. </li>
     <li>Even if they meant to harm us, blame only binds us to the injustice. Only compassion can free us. What kind of life must they be living to want to hurt someone else? What must they have gone through to become so callous or cruel? The lives of such people are pitiable indeed. </li>
   </ul>
-  
-</div> 
 
-<h2>— 3 —</h2>
-<div class="roundBorder"> 
-  <strong>We take responsibility for our own experience.</strong> We alone control how we respond to transgressions. We exercise what Viktor Frankl calls <em>“the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</em> We acknowledge that we have sensitivities and triggers like everyone else, so we determine whether our feelings really fit this situation and whether we have any accountability for how things happened. 
-</div>
+<h4><strong>We take responsibility for our own experience.</strong></h4>
+<p>We alone control how we respond to transgressions. We exercise what Viktor Frankl calls <em>“the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</em> We acknowledge that we have sensitivities and triggers like everyone else, so we determine whether our feelings really fit this situation and whether we have any accountability for how things happened. 
+</p>
 
-<h2>— 4 —</h2>
-<div class="roundBorder"> 
-  <strong>We soothe ourselves by stepping back to take care of our wounds.</strong> We know we may not make the best decisions when we’re still angry and in pain. We move, breathe, create, connect to friends or family, hibernate, or whatever works for us to calm down. 
-  
+<h4><strong>We soothe ourselves by stepping back to take care of our wounds.</strong></h4>
+<p>We know we may not make the best decisions when we’re still angry and in pain. We move, breathe, create, connect to friends or family, hibernate, or whatever works for us to calm down. </p>
   <ul>
     <li>We’re more accepting of our vulnerability, knowing we share it with every other human. </li>
     <li>We find help when it gets too much. </li>
   </ul>
   
-</div>
+<h4><strong>We allow ourselves to grieve and to mourn whatever we’ve lost.</strong></h4>
+<p>Grieving and mourning take their own path, and we don’t rush it. We want justice and work for it. But we accept the possibility that justice may never arrive. Even if it does, we accept that our life may never again be the way it was. </p>
 
-<h2>— 5 —</h2>
-<div class="roundBorder"> 
-  <strong>We allow ourselves to grieve and to mourn whatever we’ve lost.</strong> Grieving and mourning take their own path, and we don’t rush it. We want justice and work for it. But we accept the possibility that justice may never arrive. Even if it does, we accept that our life may never again be the way it was. 
-</div>
+<h4><strong>We try to keep our pain in perspective.</strong></h4>
+<p>We shift our focus to things we can still be glad about. We celebrate the good things still remaining, the good things we remember from the past, and the good things possible in the future. The loss of some hopes makes us realize how important it is to keep our other hopes alive. 
+</p>
 
-<h2>— 6 —</h2>
-<div class="roundBorder"> 
-  <strong>We try to keep our pain in perspective.</strong> We shift our focus to things we can still be glad about. We celebrate the good things still remaining, the good things we remember from the past, and the good things possible in the future. The loss of some hopes makes us realize how important it is to keep our other hopes alive. 
-</div>
-
-<h2>— 7 —</h2>
-<div class="roundBorder"> 
-  <strong>We try for reconciliation,</strong> but not at the expense of our safety or sanity. If it’s safe to do so, we try to work things out with the offender directly. We tell them how we were affected and listen to their perspective. Whether the relationship continues or not, we remain open to positive changes. 
-</div> 
+<h4><strong>We try for reconciliation</strong> 
+  <p>But not at the expense of our safety or sanity. If it’s safe to do so, we try to work things out with the offender directly. We tell them how we were affected and listen to their perspective. Whether the relationship continues or not, we remain open to positive changes. 
+</p> 
 
   
 <p>Maybe that seems like a long list. What stands out to you? What habit are you most curious about? What might you notice if you exchanged an unforgiving habit for a forgiving one? </p>
