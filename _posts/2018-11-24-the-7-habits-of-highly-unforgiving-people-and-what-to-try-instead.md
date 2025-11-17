@@ -9,8 +9,8 @@ categories: blog
 ---
 <style>
   /**
- * List Items for Seven Habits-type ordered lists
- */
+   * List Items for Seven Habits-type ordered lists
+   */
 h4 {
   counter-increment: h4;
   display: list-item;
@@ -129,11 +129,11 @@ body {
   </ul>
 
 <h4><strong>We take responsibility for our own experience.</strong></h4>
-<p>We alone control how we respond to transgressions. We exercise what Viktor Frankl calls <em>“the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</em> We acknowledge that we have sensitivities and triggers like everyone else, so we determine whether our feelings really fit this situation and whether we have any accountability for how things happened. 
+<p>We alone control how we respond to transgressions. We exercise what Viktor Frankl calls <em>“the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</em> We acknowledge that we have sensitivities and triggers like everyone else, so we determine whether our feelings really fit this situation. The transgressor is responsible for their actions, and we are responsible for managing our thoughts, feelings, and attitudes about it. 
 </p>
 
 <h4><strong>We soothe ourselves by stepping back to take care of our wounds.</strong></h4>
-<p>We know we may not make the best decisions when we’re still angry and in pain. We move, breathe, create, connect to friends or family, hibernate, or whatever works for us to calm down. </p>
+<p>We know we may not make the best decisions when we’re still angry and in pain. We move, breathe, create, connect to friends and family, hibernate, or whatever works to calm ourselves. </p>
   <ul>
     <li>We’re more accepting of our vulnerability, knowing we share it with every other human. </li>
     <li>We find help when it gets too much. </li>
@@ -146,7 +146,7 @@ body {
 <p>We shift our focus to things we can still be glad about. We celebrate the good things still remaining, the good things we remember from the past, and the good things possible in the future. The loss of some hopes makes us realize how important it is to keep our other hopes alive. 
 </p>
 
-<h4><strong>We try for reconciliation</strong> 
+<h4><strong>We try for reconciliation</strong></h4> 
   <p>But not at the expense of our safety or sanity. If it’s safe to do so, we try to work things out with the offender directly. We tell them how we were affected and listen to their perspective. Whether the relationship continues or not, we remain open to positive changes. 
 </p> 
 
