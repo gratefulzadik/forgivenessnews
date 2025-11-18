@@ -11,12 +11,12 @@ categories: blog
   /**
    * List Items for Seven Habits-type ordered lists
    */
-.habit {
+h4 {
   counter-increment: habit;
   display: list-item;
 }
 
-.habit::marker {
+h4::marker {
   font-size: large
   font-weight: bold
   display: list-item;
@@ -40,7 +40,7 @@ h2 {
 
 <h2> 7 habits of highly unforgiving people </h2> 
 
-<habit><strong>We take life too personally.</strong></habit>
+<h4><strong>We take life too personally.</strong></h4>
 <p>And when it doesn’t go our way we: </p>      
       <ul>
         <li>Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
@@ -49,7 +49,7 @@ h2 {
       
       <p>Taking life too personally is the genesis of unforgiveness. Everything else follows from this. </p> 
 
-<habit><strong>We assume the worst about the transgressor</strong></habit>
+<h4><strong>We assume the worst about the transgressor</strong></h4>
       <ul>
         <li>We think, “They must have meant to hurt me this way.”</li>
         <li>We blind ourselves to any evidence that they have ever been good, or that we ourselves have ever been blameworthy. </li>
@@ -86,14 +86,14 @@ h2 {
 
 <h2> 7 Habits of Highly Forgiving People </h2> 
 
-<habit><strong>We try not to take life personally.</strong> </habit>
+<h4><strong>We try not to take life personally.</strong> </h4>
   <p>We accept that life can be unpredictable and won’t always go our way. But our attitude is, “It’s not all about me.” When bad things happen, we remind ourselves: </p>
   <ul> 
     <li>We’re not alone. No matter how big or small our loss, many others have experienced the same thing. </li>
     <li>Our pain is real, but it does not make us special. Every human being has suffered, some intensely. </li>
   </ul> 
 
-<habit><strong>We try not to leap to judgment.</strong></habit>
+<h4><strong>We try not to leap to judgment.</strong></h4>
   <p>We tend to believe that: </p>  
   <ul> 
     <li>Most people mean no harm. </li>
