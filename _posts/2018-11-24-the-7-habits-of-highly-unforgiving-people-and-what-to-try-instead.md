@@ -2,7 +2,7 @@
 layout: post
 title: "The 7 Habits of Highly Unforgiving People—and What To Try Instead"
 image: /assets/img/seven-dwarves-forgiveness.jpg
-image-credit: "© "
+image-credit: "© Walt Disney Productions"
 excerpt: "“When we are no longer able to change a situation, we are challenged to change ourselves.” —Viktor Frankl"
 tags: 
 categories: blog 
@@ -14,6 +14,7 @@ categories: blog
 h4 {
   counter-increment: habit;
   display: list-item;
+  font-weight: bold
 }
 
 h4::marker {
@@ -22,6 +23,7 @@ h4::marker {
   display: list-item;
   content: "#" counter(habit) " ";
   color: lightgreen;
+  margin-left: 30px;
 }
 
 h2 {
@@ -40,7 +42,7 @@ h2 {
 
 <h2> 7 habits of highly unforgiving people </h2> 
 
-<h4><strong>We take life too personally.</strong></h4>
+<h4>We take life too personally.</h4>
 <p>And when it doesn’t go our way we: </p>      
       <ul>
         <li>Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
@@ -49,31 +51,31 @@ h2 {
       
       <p>Taking life too personally is the genesis of unforgiveness. Everything else follows from this. </p> 
 
-<h4><strong>We assume the worst about the transgressor</strong></h4>
+<h4>We assume the worst about the transgressor</h4>
       <ul>
         <li>We think, “They must have meant to hurt me this way.”</li>
         <li>We blind ourselves to any evidence that they have ever been good, or that we ourselves have ever been blameworthy. </li>
         <li>We cast them as a scheming villain and ourselves as an innocent victim. </li>
       </ul> 
 
-<h4><strong>We blame the transgressor for our distress</strong></h4>
+<h4>We blame the transgressor for our distress</h4>
 <p>And we demand they be punished for it. In order to do this we: </p>      
       <ul> 
         <li>Ignore or dismiss mitigating circumstances or alternative explanations. </li>
         <li>Ignore any role our choices might have played in contributing to the outcome. </li>
       </ul>
 
-<h4><strong>We soothe ourselves with fantasies of revenge.</strong></h4>
+<h4>We soothe ourselves with fantasies of revenge.</h4>
 <p>Most people feel distressed, hurt, and angry about transgressions. But in our minds these bad things were never supposed to happen in the first place, and this leads many of us to an awareness of our vulnerability that we find hard to accept. We feel ashamed of being vulnerable, and angry at the transgressor for exposing it. So we imagine putting the offender in the same vulnerable and painful position. </p>
 
-<h4><strong>We disrupt our own grieving process</strong></h4>
+<h4>We disrupt our own grieving process</h4>
   <p>Some of us stay stuck in grieving while others won’t allow ourselves to grieve until somebody “pays.” That is, until they admit guilt, accept punishment, and return everything to the way it was before.</p>
   <p>Sometimes it works. But it’s our own future we are holding hostage. </p>
 
-<h4><strong>We dwell excessively on our losses</strong></h4>
+<h4>We dwell excessively on our losses</h4>
   <p>This leads us to minimize the good things in our lives and turn away from love and support. The hopelessness of changing the past bleeds over into our beliefs about the future. We stop working toward our hopes. With neither works nor faith to feed them, our hopes wither.</p>
       
-<h4><strong>We avoid those we are angry with</strong> </h4>
+<h4>We avoid those we are angry with</h4>
     <p>This give us a covert way to:</p>
       <ul> 
         <li>Set a boundary with them that we don’t know how to set more directly. </li>
@@ -86,41 +88,43 @@ h2 {
 
 <h2> 7 Habits of Highly Forgiving People </h2> 
 
-<h4><strong>We try not to take life personally.</strong> </h4>
-  <p>We accept that life can be unpredictable and won’t always go our way. But our attitude is, “It’s not all about me.” When bad things happen, we remind ourselves: </p>
+<h4>We try not to take life personally.</h4>
+  <p>We accept that life can be unpredictable and won’t always go our way. But our attitude is, “It’s not all about me.”</p>
+  <p>When bad things happen, we remind ourselves: </p>
   <ul> 
     <li>We’re not alone. No matter how big or small our loss, many others have experienced the same thing. </li>
     <li>Our pain is real, but it does not make us special. Every human being has suffered, some intensely. </li>
   </ul> 
 
-<h4><strong>We try not to leap to judgment.</strong></h4>
+<h4>We try not to leap to judgment.</h4>
   <p>We tend to believe that: </p>  
   <ul> 
     <li>Most people mean no harm. </li>
-    <li>We have much in common with the offender: “It could have been me running that red light,” “I can see he might have thought that was the only choice he had.” </li><li>We don't know the whole story. The offender’s perspective is worth understanding. </li>
-    <li>Even if they meant to harm us, blame only binds us to the injustice. Only compassion can free us. What kind of life must they be living to want to hurt someone else? What must they have gone through to become so callous or cruel? The lives of such people are pitiable indeed. </li>
+    <li>We have much in common with the offender. We understand that “It could have been me running that red light,” “He must have thought that was the only choice he had.” </li>
+    <li>We don't know the whole story. The offender’s perspective is worth understanding. </li>
+    <li>Even if they meant to harm us, blame only binds us to the injustice. Only compassion can free us. We wonder what kind of life they must be living to want to hurt someone else. What must they have suffered to become so callous or cruel? Such people deserve compassion as much as we do. </li>
   </ul>
 
-<h4><strong>We take responsibility for our own experience.</strong></h4>
-<p>We alone control how we respond to transgressions. We exercise what Viktor Frankl calls <em>“the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</em> </p>
+<h4>We take responsibility for our own experience.</h4>
+<p>We understand that we alone control how we respond to transgressions. We exercise what Viktor Frankl calls <em>“the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</em> </p>
 <p>We acknowledge that we have sensitivities and triggers like everyone else, so we determine whether our feelings really fit this situation. The transgressor is responsible for what they did, and we are responsible for managing our thoughts, feelings, and attitudes about it. 
 </p>
 
-<h4><strong>We soothe ourselves by stepping back to take care of our wounds.</strong></h4>
+<h4>We soothe ourselves by stepping back to take care of our wounds.</h4>
 <p>We know we may not make the best decisions when we’re still angry and in pain. We move, breathe, create, connect to friends and family, hibernate, or whatever works to calm ourselves. </p>
   <ul>
     <li>We’re more accepting of our vulnerability, knowing we share it with every other human. </li>
     <li>We find help when it gets too much. </li>
   </ul>
   
-<h4><strong>We allow ourselves to grieve and to mourn whatever we’ve lost.</strong></h4>
-<p>Grieving and mourning take their own path, and we don’t rush it. We want justice and work for it. But we accept the possibility that justice may never arrive. Even if it does, we accept that our life may never again be the way it was. </p>
+<h4>We allow ourselves to grieve and to mourn whatever we’ve lost.</h4>
+<p>Grieving and mourning take their own path, and we don’t rush it. We want justice and work for it. But we accept the possibility that justice may never arrive. Even if it does, we accept that our life may never again be the way it was.</p>
 
-<h4><strong>We try to keep our pain in perspective.</strong></h4>
+<h4>We try to keep our pain in perspective.</h4>
 <p>We shift our focus to things we can still be glad about. We celebrate the good things still remaining, the good things we remember from the past, and the good things possible in the future. The loss of some hopes makes us realize how important it is to keep our other hopes alive. 
 </p>
 
-<h4><strong>We try for reconciliation</strong></h4> 
+<h4>We try for reconciliation</h4> 
   <p>But not at the expense of our safety or sanity. If it’s safe to do so, we try to work things out with the offender directly. We tell them how we were affected and listen to their perspective. Whether the relationship continues or not, we remain open to positive changes. 
 </p>
 
@@ -144,7 +148,7 @@ h2 {
 
 <p>That’s it. If you observe regularly, the seeds of change will germinate. Your brain will naturally begin to integrate what you’ve observed, and it will begin to show you new opportunities to behave differently where you once flew on autopilot.</p>
 
-<p>Sharing your experiment with your friends and family will definitely improve your results. Tell them what you’ve noticed, and see where the discussion goes. Ask them to help you spot the habits, and combine your observations. </p>
+<p>Sharing your experiment with your friends and family will definitely improve your results. Tell them what you’ve noticed, and see where the discussion goes. Ask them to help you spot the habits, and combine your observations.</p>
 
 <p>Don’t stop there: read a book from the <a href="https://forgivenessnewsnetwork.com/resources/">Resources section</a>. If you want to get on the express train, <a href="https://forgivenessnewsnetwork.com/contact/">contact me</a> about my workshops and coaching! </p>
 
