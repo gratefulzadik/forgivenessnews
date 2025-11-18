@@ -51,7 +51,7 @@ h2 {
 
 <h4><strong>We assume the worst about the transgressor</strong></h4>
       <ul>
-        <li>We think, “They must have meant to hurt me this way.”
+        <li>We think, “They must have meant to hurt me this way.”</li>
         <li>We blind ourselves to any evidence that they have ever been good, or that we ourselves have ever been blameworthy. </li>
         <li>We cast them as a scheming villain and ourselves as an innocent victim. </li>
       </ul> 
