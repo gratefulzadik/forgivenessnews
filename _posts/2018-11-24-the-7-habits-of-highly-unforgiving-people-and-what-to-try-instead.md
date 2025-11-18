@@ -11,19 +11,21 @@ categories: blog
   /**
    * List Items for Seven Habits-type ordered lists
    */
-h4 {
-  counter-increment: h4;
+.habit {
+  counter-increment: habit;
   display: list-item;
 }
 
-h4::marker {
+.habit::marker {
+  font-size: large
+  font-weight: bold
   display: list-item;
-  content: "#" counter(h4) " ";
+  content: "#" counter(habit) " ";
   color: lightgreen;
 }
 
-body {
-  counter-reset: h4;
+h2 {
+  counter-reset: habit;
 }
 
 </style>
@@ -38,7 +40,7 @@ body {
 
 <h2> 7 habits of highly unforgiving people </h2> 
 
-<h4><strong>We take life too personally.</strong></h4>
+<h4><strong>We take life too personally.</strong></p>
 <p>And when it doesn’t go our way we: </p>      
       <ul>
         <li>Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
