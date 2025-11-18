@@ -23,15 +23,15 @@ h4::marker {
   display: list-item;
   content: "#" counter(habit) " ";
   color: lightgreen;
-  margin-left: 30px;
 }
 
 h2 {
   counter-reset: habit;
+  text-align: center;
 }
   
 .indented-list {
-    margin: 60px;
+    margin-left: 30px;
 }
 </style>
 
@@ -43,7 +43,7 @@ h2 {
 
 <p>What better way to learn a new habit than to follow a good example? Highly forgiving people have their own habits that support them in forgiving more often and more readily than the rest of us do. Those habits can be developed, like any other habit, with practice and attention. Let’s take a look at the habits of forgiveness and unforgiveness side-by-side:</p>
 
-<h2> 7 habits of highly unforgiving people </h2> 
+<h2> 7 Habits of Highly Unforgiving People </h2> 
 
 <div class="indented-list">
   <h4>We take life too personally.</h4>
