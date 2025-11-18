@@ -40,7 +40,7 @@ h2 {
 
 <h2> 7 habits of highly unforgiving people </h2> 
 
-<h4><strong>We take life too personally.</strong></p>
+<habit><strong>We take life too personally.</strong></habit>
 <p>And when it doesn’t go our way we: </p>      
       <ul>
         <li>Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
@@ -49,7 +49,7 @@ h2 {
       
       <p>Taking life too personally is the genesis of unforgiveness. Everything else follows from this. </p> 
 
-<h4><strong>We assume the worst about the transgressor</strong></h4>
+<habit><strong>We assume the worst about the transgressor</strong></habit>
       <ul>
         <li>We think, “They must have meant to hurt me this way.”</li>
         <li>We blind ourselves to any evidence that they have ever been good, or that we ourselves have ever been blameworthy. </li>
@@ -84,16 +84,16 @@ h2 {
 <hr />
 <p>&nbsp;</p>
 
-<h2> 7 Habits of Forgiving People </h2> 
+<h2> 7 Habits of Highly Forgiving People </h2> 
 
-<h4><strong>We try not to take life personally.</strong> </h4>
+<habit><strong>We try not to take life personally.</strong> </habit>
   <p>We accept that life can be unpredictable and won’t always go our way. But our attitude is, “It’s not all about me.” When bad things happen, we remind ourselves: </p>
   <ul> 
     <li>We’re not alone. No matter how big or small our loss, many others have experienced the same thing. </li>
     <li>Our pain is real, but it does not make us special. Every human being has suffered, some intensely. </li>
   </ul> 
 
-<h4><strong>We try not to leap to judgment.</strong></h4>
+<habit><strong>We try not to leap to judgment.</strong></habit>
   <p>We tend to believe that: </p>  
   <ul> 
     <li>Most people mean no harm. </li>
@@ -102,7 +102,8 @@ h2 {
   </ul>
 
 <h4><strong>We take responsibility for our own experience.</strong></h4>
-<p>We alone control how we respond to transgressions. We exercise what Viktor Frankl calls <em>“the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</em> We acknowledge that we have sensitivities and triggers like everyone else, so we determine whether our feelings really fit this situation. The transgressor is responsible for their actions, and we are responsible for managing our thoughts, feelings, and attitudes about it. 
+<p>We alone control how we respond to transgressions. We exercise what Viktor Frankl calls <em>“the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</em> </p>
+<p>We acknowledge that we have sensitivities and triggers like everyone else, so we determine whether our feelings really fit this situation. The transgressor is responsible for what they did, and we are responsible for managing our thoughts, feelings, and attitudes about it. 
 </p>
 
 <h4><strong>We soothe ourselves by stepping back to take care of our wounds.</strong></h4>
@@ -132,14 +133,14 @@ h2 {
 <p><strong>An exploration: </strong></p>
 <p>The first and most powerful step in changing a habit is simply to become more aware of it. The key to awareness lies in simply observing. Here’s a way to start:</p>
 
-<ul>
+<ol>
   <li>Pick one habit, perhaps the one you had the strongest reaction to. It doesn’t matter if it’s a habit you want to quit or one that you want to adopt, as long as it has your interest.</li>
   <li>Where and when do you notice this behavior? Begin to notice it within and around you, not just in yourself, but in anyone. These habits are everywhere, so whatever you picked, there are people around you who have that behavior.</li>
   <li>Don’t judge. Don’t analyze. Just notice. Don’t treat it as a problem to be solved, but just as something worth noticing.</li>
   <li>How does it feel when you see it? How are others in the situation feeling? How are others responding?</li>
   <li>Whatever you notice, discuss it with a friend or just write it down.</li>
   <li>Check your notes from time to time, or review with your friends.</li>
-</ul>
+</ol>
 
 <p>That’s it. If you observe regularly, the seeds of change will germinate. Your brain will naturally begin to integrate what you’ve observed, and it will begin to show you new opportunities to behave differently where you once flew on autopilot.</p>
 
