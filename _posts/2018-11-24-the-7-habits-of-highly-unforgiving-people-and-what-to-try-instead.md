@@ -29,7 +29,10 @@ h4::marker {
 h2 {
   counter-reset: habit;
 }
-
+  
+.indented-list {
+    margin: 60px;
+}
 </style>
 
 <p>As a highly unforgiving person myself, I can tell you that the habits of unforgiving people lead us to suffering just as surely as a river flows to the sea. Holding a grudge keeps us in a chronic state of stress, and every moment of resentment about the past steals a moment of hope from our future. </p>
@@ -42,45 +45,47 @@ h2 {
 
 <h2> 7 habits of highly unforgiving people </h2> 
 
-<h4>We take life too personally.</h4>
-<p>And when it doesn’t go our way we: </p>      
-      <ul>
-        <li>Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
-        <li>Believe that we’re alone, that there’s something unique about our situation: “no one else has suffered what I have.”</li>
-      </ul> 
-      
-      <p>Taking life too personally is the genesis of unforgiveness. Everything else follows from this. </p> 
-
-<h4>We assume the worst about the transgressor</h4>
-      <ul>
-        <li>We think, “They must have meant to hurt me this way.”</li>
-        <li>We blind ourselves to any evidence that they have ever been good, or that we ourselves have ever been blameworthy. </li>
-        <li>We cast them as a scheming villain and ourselves as an innocent victim. </li>
-      </ul> 
-
-<h4>We blame the transgressor for our distress</h4>
-<p>And we demand they be punished for it. In order to do this we: </p>      
-      <ul> 
-        <li>Ignore or dismiss mitigating circumstances or alternative explanations. </li>
-        <li>Ignore any role our choices might have played in contributing to the outcome. </li>
-      </ul>
-
-<h4>We soothe ourselves with fantasies of revenge.</h4>
-<p>Most people feel distressed, hurt, and angry about transgressions. But in our minds these bad things were never supposed to happen in the first place, and this leads many of us to an awareness of our vulnerability that we find hard to accept. We feel ashamed of being vulnerable, and angry at the transgressor for exposing it. So we imagine putting the offender in the same vulnerable and painful position. </p>
-
-<h4>We disrupt our own grieving process</h4>
-  <p>Some of us stay stuck in grieving while others won’t allow ourselves to grieve until somebody “pays.” That is, until they admit guilt, accept punishment, and return everything to the way it was before.</p>
-  <p>Sometimes it works. But it’s our own future we are holding hostage. </p>
-
-<h4>We dwell excessively on our losses</h4>
-  <p>This leads us to minimize the good things in our lives and turn away from love and support. The hopelessness of changing the past bleeds over into our beliefs about the future. We stop working toward our hopes. With neither works nor faith to feed them, our hopes wither.</p>
-      
-<h4>We avoid those we are angry with</h4>
-    <p>This give us a covert way to:</p>
-      <ul> 
-        <li>Set a boundary with them that we don’t know how to set more directly. </li>
-        <li>“Resolve” the conflict by ending the relationship. </li>
-      </ul> 
+<div class="indented-list">
+  <h4>We take life too personally.</h4>
+  <p>And when it doesn’t go our way we: </p>      
+        <ul>
+          <li>Assume that we have been singled out somehow for the bad behavior of others or random misfortunes. </li>
+          <li>Believe that we’re alone, that there’s something unique about our situation: “no one else has suffered what I have.”</li>
+        </ul> 
+        
+        <p>Taking life too personally is the genesis of unforgiveness. Everything else follows from this. </p> 
+  
+  <h4>We assume the worst about the transgressor</h4>
+        <ul>
+          <li>We think, “They must have meant to hurt me this way.”</li>
+          <li>We blind ourselves to any evidence that they have ever been good, or that we ourselves have ever been blameworthy. </li>
+          <li>We cast them as a scheming villain and ourselves as an innocent victim. </li>
+        </ul> 
+  
+  <h4>We blame the transgressor for our distress</h4>
+  <p>And we demand they be punished for it. In order to do this we: </p>      
+        <ul> 
+          <li>Ignore or dismiss mitigating circumstances or alternative explanations. </li>
+          <li>Ignore any role our choices might have played in contributing to the outcome. </li>
+        </ul>
+  
+  <h4>We soothe ourselves with fantasies of revenge.</h4>
+  <p>Most people feel distressed, hurt, and angry about transgressions. But in our minds these bad things were never supposed to happen in the first place, and this leads many of us to an awareness of our vulnerability that we find hard to accept. We feel ashamed of being vulnerable, and angry at the transgressor for exposing it. So we imagine putting the offender in the same vulnerable and painful position. </p>
+  
+  <h4>We disrupt our own grieving process</h4>
+    <p>Some of us stay stuck in grieving while others won’t allow ourselves to grieve until somebody “pays.” That is, until they admit guilt, accept punishment, and return everything to the way it was before.</p>
+    <p>Sometimes it works. But it’s our own future we are holding hostage. </p>
+  
+  <h4>We dwell excessively on our losses</h4>
+    <p>This leads us to minimize the good things in our lives and turn away from love and support. The hopelessness of changing the past bleeds over into our beliefs about the future. We stop working toward our hopes. With neither works nor faith to feed them, our hopes wither.</p>
+        
+  <h4>We avoid those we are angry with</h4>
+      <p>This give us a covert way to:</p>
+        <ul> 
+          <li>Set a boundary with them that we don’t know how to set more directly. </li>
+          <li>“Resolve” the conflict by ending the relationship. </li>
+        </ul> 
+</div>
 
 <p>&nbsp;</p>
 <hr />
