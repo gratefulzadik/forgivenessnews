@@ -55,12 +55,14 @@ h2 {
         <li>We blind ourselves to any evidence that they have ever been good, or that we ourselves have ever been blameworthy. </li>
         <li>We cast them as a scheming villain and ourselves as an innocent victim. </li>
       </ul> 
+
 <h4><strong>We blame the transgressor for our distress</strong></h4>
 <p>And we demand they be punished for it. In order to do this we: </p>      
       <ul> 
         <li>Ignore or dismiss mitigating circumstances or alternative explanations. </li>
         <li>Ignore any role our choices might have played in contributing to the outcome. </li>
       </ul>
+
 <h4><strong>We soothe ourselves with fantasies of revenge.</strong></h4>
 <p>Most people feel distressed, hurt, and angry about transgressions. But in our minds these bad things were never supposed to happen in the first place, and this leads many of us to an awareness of our vulnerability that we find hard to accept. We feel ashamed of being vulnerable, and angry at the transgressor for exposing it. So we imagine putting the offender in the same vulnerable and painful position. </p>
 
@@ -69,18 +71,18 @@ h2 {
   <p>Sometimes it works. But it’s our own future we are holding hostage. </p>
 
 <h4><strong>We dwell excessively on our losses</strong></h4>
-  <p>This leads us to minimize the good things in our lives. The hopelessness of changing the past bleeds over into our beliefs about the future. We stop working toward our hopes. With neither works nor faith to feed them, our hopes wither.
-      <h4><strong>We avoid those we are angry with</strong> </h4>
+  <p>This leads us to minimize the good things in our lives and turn away from love and support. The hopelessness of changing the past bleeds over into our beliefs about the future. We stop working toward our hopes. With neither works nor faith to feed them, our hopes wither.</p>
+      
+<h4><strong>We avoid those we are angry with</strong> </h4>
     <p>This give us a covert way to:</p>
       <ul> 
-        <li>Set boundaries with them that we don’t know how to set more directly. </li>
+        <li>Set a boundary with them that we don’t know how to set more directly. </li>
         <li>“Resolve” the conflict by ending the relationship. </li>
-        </ul>
-    </div> 
-  </li>
-</ol> 
+      </ul> 
 
+<p>&nbsp;</p>
 <hr />
+<p>&nbsp;</p>
 
 <h2> 7 Habits of Forgiving People </h2> 
 
@@ -119,23 +121,27 @@ h2 {
 
 <h4><strong>We try for reconciliation</strong></h4> 
   <p>But not at the expense of our safety or sanity. If it’s safe to do so, we try to work things out with the offender directly. We tell them how we were affected and listen to their perspective. Whether the relationship continues or not, we remain open to positive changes. 
-</p> 
+</p>
 
-  
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+
 <p>Maybe that seems like a long list. What stands out to you? What habit are you most curious about? What might you notice if you exchanged an unforgiving habit for a forgiving one? </p>
 
-<p><strong>Here’s an exercise: </strong></p>
-<p>The first and most powerful step in changing a habit is simply to become more aware of it. The key to awareness lies in simply observing. Here’s how to start:</p>
+<p><strong>An exploration: </strong></p>
+<p>The first and most powerful step in changing a habit is simply to become more aware of it. The key to awareness lies in simply observing. Here’s a way to start:</p>
 
 <ul>
-  <li><p>Pick one habit, perhaps the one you had the strongest reaction to. It doesn’t matter if it’s a habit you want to quit or one that you want to adopt, as long as it has your interest.</p></li>
-  <li><p>Where and when do you notice this behavior? Begin to notice it within and around you, not just in yourself, but in anyone. These habits are everywhere, so whatever habit you picked, there are people around you who have that behavior. </p></li>
-  <li><p>Don’t judge. Don’t analyze. Just notice. Don’t treat it as a problem to be solved, but just as something worth noticing.</p></li><li><p>How does it feel when you see it? How are others in the situation feeling? How are others responding?</p></li>
-  <li><p>Whatever you notice, discuss it with a friend or just make a note of it. </p></li>
-  <li><p>Check your notes from time to time, or review with your friends.</p></li>
+  <li>Pick one habit, perhaps the one you had the strongest reaction to. It doesn’t matter if it’s a habit you want to quit or one that you want to adopt, as long as it has your interest.</li>
+  <li>Where and when do you notice this behavior? Begin to notice it within and around you, not just in yourself, but in anyone. These habits are everywhere, so whatever you picked, there are people around you who have that behavior.</li>
+  <li>Don’t judge. Don’t analyze. Just notice. Don’t treat it as a problem to be solved, but just as something worth noticing.</li>
+  <li>How does it feel when you see it? How are others in the situation feeling? How are others responding?</li>
+  <li>Whatever you notice, discuss it with a friend or just write it down.</li>
+  <li>Check your notes from time to time, or review with your friends.</li>
 </ul>
 
-<p>That’s it. If you do these things regularly, they will germinate the seeds of change. Your brain will naturally begin to integrate what you’ve observed, and it will begin to show you new opportunities to behave differently where you once operated on autopilot. </p>
+<p>That’s it. If you observe regularly, the seeds of change will germinate. Your brain will naturally begin to integrate what you’ve observed, and it will begin to show you new opportunities to behave differently where you once flew on autopilot.</p>
 
 <p>Sharing your experiment with your friends and family will definitely improve your results. Tell them what you’ve noticed, and see where the discussion goes. Ask them to help you spot the habits, and combine your observations. </p>
 
