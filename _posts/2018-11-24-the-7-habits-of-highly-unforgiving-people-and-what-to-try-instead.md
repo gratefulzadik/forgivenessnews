@@ -69,13 +69,12 @@ h2 {
         </ul>
   
   <h4>We soothe ourselves with fantasies of revenge.</h4>
-    <p>Most people feel distressed, hurt, and angry about transgressions. But we insist that the world be safer and more fair to us than it really is.</p> 
-    <p>Transgressions lead us to an awareness of our vulnerability that we find hard to accept.</p>
-    <p>We feel ashamed of being vulnerable, and even more angry at the transgressor for exposing it. So we imagine putting the offender in the same vulnerable and painful position.</p>
+    <p>Suffering a transgression naturally leads to an awareness of one's vulnerability. But unforgiving people find that awareness especially hard to accept. It threatens our self-esteem. </p>
+    <p>We feel ashamed of being vulnerable, and even more angry at the transgressor for exposing it. To compensate for our intolerable pain, we imagine (and sometimes plan out) ways to inflict a similarly vulnerable and powerless feeling on the offender.</p>
   
   <h4>We disrupt our own healing process.</h4>
-    <p>Some of us stay stuck in grieving, hoping our misery will somehow punish the offender. Some won’t allow ourselves to heal until somebody “pays.” That is, until they admit guilt, accept punishment, apologize, and return everything to the way it was before.</p>
-    <p>Sometimes it works. But it’s our own future we hold hostage in the meantime. </p>
+    <p>Some of us stay stuck in grieving, hoping our misery will somehow punish the offender or make them look bad. Some won’t allow ourselves to heal until somebody “pays.” That is, admits guilt, accepts punishment, apologizes, and returns everything to the way it was before.</p>
+    <p>Sometimes it works. But it’s always our own future we hold hostage. </p>
   
   <h4>We allow our grievances to take over our lives.</h4>
     <p>The hopelessness of changing the past bleeds over into our beliefs about the future. Consequently, we:</p>
@@ -166,7 +165,7 @@ h2 {
   <li>Check your notes from time to time, or review with your friends.</li>
 </ol>
 
-<p>That’s it. Regular observation provides the perfect conditions for the seeds of positive change to germinate. Your brain will naturally begin to integrate what you’ve observed, and it will begin to show you new opportunities to behave differently where you once flew on autopilot.</p>
+<p>That’s it. Regular observation provides the perfect conditions for the seeds of positive change to germinate. You will naturally begin to integrate what you’ve observed, and you will begin to notice new opportunities to behave differently where you once flew on autopilot.</p>
 
 <p>Sharing your experiment with your friends and family will definitely improve your results. Tell them what you’ve noticed, and see where the discussion goes. Ask them to help you spot the habits and combine your observations.</p>
 
